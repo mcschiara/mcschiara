@@ -1,20 +1,18 @@
-<h1 align="center">👋 Olá, eu sou [Seu Nome], uma desenvolvedora apaixonada por tecnologia!</h1>
+<h1 align="center">👋 Olá, eu sou a Maria Clara (mais conhecida como Chiara), uma desenvolvedora apaixonada por tecnologia!</h1>
 
 <p align="center">
-  <a href="https://seulink1.com"><img src="https://img.shields.io/badge/-Link1-FF0000?style=for-the-badge&logo=whatever&logoColor=white" /></a>
-  <a href="https://seulink2.com"><img src="https://img.shields.io/badge/-Link2-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://seulink1.com"><img src="https://img.shields.io/badge/-Link1-FF0000?style=for-the-badge&logo=whatever&logoColor=white" />Linkedin</a>
 </p>
 
 ---
 
 ## 📝 About Me
 
-- 👩‍💻 Tive meu primeiro contato com código aos [sua idade na época] anos e me encantei com o poder de criar coisas do zero!
-- ✨ Sou apaixonada por compartilhar conhecimento e ajudar outras pessoas a se desenvolverem na área tech.
-- 📚 Atualmente, estou estudando **[linguagens ou tecnologias que você está aprendendo]** para expandir meu conhecimento.
-- 🚀 Tenho interesse especial em **[suas áreas favoritas, ex.: Front-End, UX/UI, Back-End, Cloud, etc.]**
-- 🎮 Nas horas vagas, adoro **[seus hobbies, ex.: jogar, assistir séries, praticar esportes, etc.]**
+- 👩‍💻 Tive meu primeiro contato com código aos 15 anos e me encantei com o poder de criar coisas do zero!
+- ✨ Sou apaixonada por compartilhar conhecimento.
+- 📚 Atualmente, estou estudando **JavaScript** para expandir meu conhecimento.
+- 🚀 Tenho interesse especial em **Inteligência Artificial**
+- 🎮 Nas horas vagas, adoro **jogar**
 - 📈 Também sou curiosa sobre investimentos, mercado financeiro e economia.
 
 ---
@@ -50,6 +48,4 @@
 - Acredito que a tecnologia pode transformar vidas — e quero fazer parte disso!
 
 ---
-
-<p align="center">🚀 Obrigada por visitar meu perfil!</p>
 
