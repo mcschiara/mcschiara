@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Maria Clara (mais conhecida como Chiara), uma desenvolvedora apaixonada por tecnologia!</h1>
 
 <p align="center">
-  <a href="https://seulink1.com"><img src="https://img.shields.io/badge/-Link1-FF0000?style=for-the-badge&logo=whatever&logoColor=white" />Linkedin</a>
+  <a href="https://www.linkedin.com/in/maria-clara-santa-chiara-163790234/"><img src="https://img.shields.io/badge/-Linkedin-FF0000?style=for-the-badge&logo=whatever&logoColor=white" /></a>
 </p>
 
 ---
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 </p>
 
 ### Back-end e banco de dados:
