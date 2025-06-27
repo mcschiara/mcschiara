@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Maria Clara (mais conhecida como Chiara), uma desenvolvedora apaixonada por tecnologia!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-clara-santa-chiara-163790234/"><img src="https://img.shields.io/badge/-Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maria-clara-santa-chiara-163790234/"><img src="https://img.shields.io/badge/-Link2-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
